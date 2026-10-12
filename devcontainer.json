@@ -1,0 +1,9 @@
+{
+  "name": "ESP-IDF",
+  "image": "espressif/idf:release-v5.4",
+  "customizations": {
+    "vscode": {
+      "extensions": ["espressif.esp-idf-extension", "wokwi.wokwi-vscode"]
+    }
+  }
+}
