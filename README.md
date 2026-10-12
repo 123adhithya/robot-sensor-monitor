@@ -6,6 +6,12 @@ The ESP32 reads an MPU6050 IMU over I2C, detects when the robot tilts too far, d
 
 > **Note:** This project runs in simulation. The code uses standard ESP-IDF drivers and should run unchanged on a real ESP32 DevKit with the same wiring.
 
+## Demo
+
+<img width="648" height="782" alt="image" src="https://github.com/user-attachments/assets/e37b8959-14d8-4f8e-9c50-64a2780d557b" />
+
+
+
 ---
 
 ## Features
